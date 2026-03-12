@@ -1,1 +1,7 @@
 # Book_Price_Prediction
+In the project I have used a book dataset having 6237 rows of data. I have performed exploratory data analysis on it then used the cleaned data to train a ML model to predict the pricve usinng the features. The model used here is LightGBM. LightGBM is a gradiant boosting framework that uses tree based learning algorithms.It is designed to be distributed and efficient with the following advantaged:
+Faster training speed and higher efficiency.
+Lower memory usage.
+Better accuracy.
+Support of parallel and GPU learning.
+Capable of handling large-scale data.
